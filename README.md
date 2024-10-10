@@ -5,7 +5,7 @@ Django Shopping App
 
 -Shopping card
 
--Check out
+-Check  out
 
 -Leave comment
 
